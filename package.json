@@ -1,13 +1,16 @@
 {
-  "name": "picomatch",
+  "name": "unmatch",
   "description": "Blazing fast and accurate glob matcher written in JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions.",
-  "version": "4.0.2",
-  "homepage": "https://github.com/micromatch/picomatch",
-  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
-  "funding": "https://github.com/sponsors/jonschlinkert",
-  "repository": "micromatch/picomatch",
+  "version": "1.0.0",
+  "homepage": "https://github.com/webpro/unmatch",
+  "author": "Lars Kappert (https://github.com/webpro)",
+  "contributors": [
+    "Jon Schlinkert (https://github.com/jonschlinkert)",
+    "Lars Kappert (https://github.com/webpro)"
+  ],
+  "repository": "webpro/unmatch",
   "bugs": {
-    "url": "https://github.com/micromatch/picomatch/issues"
+    "url": "https://github.com/webpro/unmatch/issues"
   },
   "license": "MIT",
   "files": [

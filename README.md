@@ -1,4 +1,8 @@
-<h1 align="center">Picomatch</h1>
+<h1 align="center">unmatch</h1>
+
+> [!IMPORTANT]
+>
+> This project is a fork of [picomatch](https://github.com/micromatch/picomatch), originally authored by Jon Schlinkert.
 
 <p align="center">
 <a href="https://npmjs.org/package/picomatch">
