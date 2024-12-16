@@ -16,8 +16,10 @@
   "files": [
     "index.js",
     "posix.js",
-    "lib"
+    "lib",
+    "@types"
   ],
+  "types": "@types/unmatch/index.d.ts",
   "sideEffects": false,
   "main": "index.js",
   "engines": {
