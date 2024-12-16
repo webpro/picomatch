@@ -57,6 +57,8 @@ declare const constants: {
     MAX_LENGTH: number;
     POSIX_REGEX_SOURCE: typeof POSIX_REGEX_SOURCE;
 
+    UNIGNORE: unique symbol;
+
     // regular expressions
     REGEX_BACKSLASH: RegExp;
     REGEX_NON_SPECIAL_CHARS: RegExp;
